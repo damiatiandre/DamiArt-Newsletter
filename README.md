@@ -5,3 +5,7 @@
 # Tecnologias
 -HTML<br>
 -Tailwind CSS
+
+# Acesse o Projeto aqui:
+
+https://damiatiandre.github.io/DamiArt-Newsletter/
